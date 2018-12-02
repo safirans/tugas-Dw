@@ -1,0 +1,69 @@
+p{
+				line-height:25px;
+				text-align:justify;
+				font-family:arial;
+			}
+			h1{
+				font-family:Comic Sans Ms;
+				color:white;
+				font-size:40px;
+			}
+				
+			a{
+				text-decoration:none;
+				color:white;
+				font-family:agency FB;
+				font-size:20px;
+			}
+			ul,li{
+				list-style-type:none;
+			}
+			header{
+				width:1330px;
+				height:14%;
+				background-color:black;
+				padding:10px;
+				color:#002F21;
+			}
+			nav{
+				width:1280px;
+				background-color:black;
+				padding-left:65px;
+				padding-right:5px;
+				padding-top:5px;
+				height:4%;
+			}
+			.menucolumn {
+				word-spacing:3px;
+				line-height:25px;
+				float: left;
+				width: 150px;
+				padding: 10px;
+				height: 63%;
+			}
+			.contentcolumn{
+				float: left;
+				width: 900px;
+				padding: 10px 15px 10px 15px;
+				height: 63%;
+			}
+			.extracolumn{
+				float: left;
+				width: 229.5px;
+				padding: 10px;
+				height: 63%;
+				margin-right:-20px;
+			}
+			.row:after {
+				content: "";
+				display: table;
+				clear: both;
+			}
+			footer{
+				height:6%;
+				background-color:black;
+			}
+			a:hover{
+				color:deepink;
+				font-size:25px;
+			}
